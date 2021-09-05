@@ -1,4 +1,4 @@
-### Hello, my name is Elvis Silva! 💻
+### Olá, me chamo Elvis! 💻
 
  <div>
   <a href="https://github.com/Elvissiilvaa">
@@ -46,10 +46,11 @@ Here are some ideas to get you started:
 <img align = "center" alt="Elvis-Linux" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div <br>
 
-  <!--
+  
 <div>
+ <br>
  <img src="https://komarev.com/ghpvc/?username=Elvissiilvaa&color=green" alt="Elvissiilvaa" /> 
 </div>
---> 
+
  
 
