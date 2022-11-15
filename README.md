@@ -1,6 +1,9 @@
 ### My name is Elvis, but my friends call me Xelvis 💻
 
 
+📚 Formado em Análise e Desenvolvimento de Sistemas | 2018-2022 |📚
+
+✍ Hobbies: Assistir(), Codificar/testar(), Jogar(), ✍
 
 
  <div>
